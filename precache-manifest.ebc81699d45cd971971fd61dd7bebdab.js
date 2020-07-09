@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9bcb9564bdcf83f2313d32b14032948a",
+    "revision": "c429dbbb1c05981eaa7f296f6341e52a",
     "url": "/yura-website/index.html"
   },
   {
-    "revision": "5b7646f30bf20b7ed376",
+    "revision": "bf327438805848ebcfc5",
     "url": "/yura-website/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yura-website/static/js/2.32383106.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5b7646f30bf20b7ed376",
-    "url": "/yura-website/static/js/main.11505484.chunk.js"
+    "revision": "bf327438805848ebcfc5",
+    "url": "/yura-website/static/js/main.079da77f.chunk.js"
   },
   {
     "revision": "b65ed3c11cf81f6f8000",

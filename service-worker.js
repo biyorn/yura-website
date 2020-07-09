@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yura-website/precache-manifest.96c0b834dba4557c5685dca63b794c44.js"
+  "/yura-website/precache-manifest.ebc81699d45cd971971fd61dd7bebdab.js"
 );
 
 self.addEventListener('message', (event) => {
